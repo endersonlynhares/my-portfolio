@@ -1,0 +1,58 @@
+{
+  "translation":{
+    "links":{
+      "contact": "Contact",
+      "projects": "Projects",
+      "about": "About",
+      "home": "Home"
+    },
+    "languages":{
+      "portuguese": "Portuguese",
+      "english": "English"
+    },
+    "home": {
+      "name_apresentation": "HI, MY NAMES  IS ENDERSON LINHARES",
+      "make": "I make websites.",
+      "who_i_am": "I’m a front-end developer based in Fortaleza, Brasil. I design and code beautifully simple things, and I love what I do.",
+      "what_i_do": "Working with my hands to make magic happen on the internet. View my Projects, About Me, Resume, Contact Me or send me an email at endersonlinhares.developer@gmail.com"
+    },
+    "about":{
+      "hey": "Hey there!",
+      "i_am": "I’m Enderson Linhares, a front-end web developer and designer based in Fortaleza, Brasil",
+      "perfecting_skill": "I've been since I was 13 years old I have been perfecting my programming skills",
+      "focus": "My focus is on creating engaging, accessible & performant interfaces for humans.",
+      "programming": "Programação",
+      "programming_paragraph": "Since I was 13 years old I have been perfecting my programming skills. My experience as a programmer allows me to find smart solutions to technical challenges while designing elegant and visually appealing websites.",
+      "design_paragraph": "While not your typical designer, I have excellent visual skills and this makes me an excellent presenter. With my strong conceptualization skills, I am able to visualize and create beautiful work. I always liked the visual part, whenever I can I adjust style sheets and create UI's.",
+      "view": "View GitHub",
+      "developer": "Developer",
+      "designer": "Designer",
+      "lang_I_know": "Languages and Technologies that I know",
+      "things_i_know": "Things I enjoy designing",
+      "tools": "Design tools",
+      "other": "Other"
+    },
+    "projects":{
+      "title": "Projects"
+    },
+    "projectsContent":{
+      "1": "A project about a fictitious coffee shop, which was developed as a final challenge for the closing of the RocketSeat session",
+      "2": "Dictionary application made in React that consumes an API",
+      "3": "Creating Harry Potter themed cards",
+      "4": "An application for converting amounts in dollars to reais, the project is a web challenge for a front-end vacancy offered by Stone Payments",
+      "5": "Tic Tac Toe Mini Game using styled-components",
+      "6": "Feed that simulates a social network, project developed to learn the principles of React"
+    },
+    "contact":{
+      "contact_me": "Contact me",
+      "my_email": "Get in touch or shoot me an email directly on",
+      "name": "Name",
+      "message": "Message",
+      "send_message": "Send Message"
+    },
+    "footer": {
+      "see_more": "See More in ",
+      "go_back": "Go back "
+    }
+  }
+}

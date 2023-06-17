@@ -1,0 +1,58 @@
+{
+  "translation":{
+    "links":{
+      "contact": "Contato",
+      "projects": "Projetos",
+      "about": "Sobre",
+      "home": "Home"
+    },
+    "languages":{
+      "portuguese": "Português",
+      "english": "Inglês"
+    },
+    "home": {
+      "name_apresentation": "OLÁ, MEU NOME É ENDERSON LINHARES",
+      "make": "Eu faço sites",
+      "who_i_am": "Sou desenvolvedor front-end e moro em Fortaleza, Brasil. Eu projeto e programo coisas simples e belas, e gosto muito do que faço.",
+      "what_i_do": "Empenhado nos projetos que eu faço e sempre procurando o melhor para aprender mais e mais. Veja meus Projetos, Sobre, Contato ou envie-me um e-mail para endersonlinhares.developer@gmail.com."
+    },
+    "about":{
+      "hey": "Eae, galera!",
+      "i_am": "Chamo-me Enderson Linhares e sou desenvolvedor web front-end e designer de Fortaleza, Brasil",
+      "perfecting_skill": "Desde os 13 anos venho aperfeiçoando minhas habilidades em programação",
+      "focus": "Meu objetivo é criar interfaces atraentes, acessíveis e de alto desempenho.",
+      "programming": "Programação",
+      "programming_paragraph": "Desde os 13 anos venho aperfeiçoando minhas habilidades de programação. Minha experiência como programador me permite encontrar soluções inteligentes para desafios técnicos enquanto construo sites visualmente atraentes.",
+      "design_paragraph": "Embora não seja um designer que atua de maneira profissional, tenho excelentes habilidades visuais e isso me torna um excelente designer. Com minhas habilidades de conceituação, sou capaz de visualizar e criar belos trabalhos. Eu gosto da parte visual, sempre que posso ajusto CSS e crio UI's.",
+      "view": "Veja no GitHub",
+      "developer": "Desenvolvedor",
+      "designer": "Designer",
+      "lang_I_know": "Linguagens e tecnologias que eu uso",
+      "things_i_know": "Projetos que eu gosto de fazer",
+      "tools": "Ferramentas de design",
+      "other": "Outros"
+    },
+    "projects":{
+      "title": "Projetos"
+    },
+    "contact":{
+      "contact_me": "Contate-me",
+      "my_email": "Entre em contato ou envie-me um e-mail diretamente para",
+      "name": "Nome",
+      "message": "Messagem",
+      "send_message": "Mandar messagem"
+    },
+    "projectsContent":{
+      "1": "Um projeto sobre uma cafeteria ficticia, a qual foi desenvolvida como desafio final para o fechamento da sessão na RocketSeat",
+      "2": "Aplicação de dicionário feito em React que consome uma API",
+      "3": "Criação de cards com a temática Harry Potter",
+      "4": "Uma aplicação para conversão de valores em dólares para reais, o projeto é um desafio web para uma vaga de front-end oferecida pela Stone Payments.",
+      "5": "Mini Game de Jogo da Velha utilizando styled-components",
+      "6": "Feed que simula uma rede social, projeto desenvolvido para aprender os principios de React"
+    },
+    "footer": {
+      "see_more": "Veja mais em ",
+      "go_back": "Voltar para a "
+    }
+  }
+}
